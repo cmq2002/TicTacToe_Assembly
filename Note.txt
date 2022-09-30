@@ -1,0 +1,11 @@
+Storage - two dimesional array[5][5]  |X
+
+First move -> not allowed to choose (3,3)  |X
+
+Input |X
+
+Check
+
+Draw_board    |x
+
+
