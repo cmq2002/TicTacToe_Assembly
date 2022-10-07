@@ -1,4 +1,4 @@
-# TicTacToe_Assembly_MIPS
+# TicTacToe_Assembly
 This is a text-based 5x5 board Tic-tac-toe game for two players implemented in MIPS assembly language.
 The rule is listed below:
 - During the first turn of both players, they are not allowed to choose the central point (row 3 & column 3).
